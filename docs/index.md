@@ -15,7 +15,7 @@ To contact the NTC Steering Committee, message us on the Discussion Forum or ema
 # Committees
 
 ## Formation Services
-Committee Chair: Ty S
+Committee Chair: Brian D ([@brian_252 🔐](https://discussion.dsausa.org/u/brian_252/))
 
 - [Chapter Websites 🔐](https://discussion.dsausa.org/t/chapter-website-team-docs/30979)
 - [Wordpress 🔐](https://discussion.dsausa.org/t/wordpress-team-docs/30980)
@@ -25,15 +25,14 @@ Committee Chair: Ty S
 - [Vitalization 🔐](https://discussion.dsausa.org/t/vitalization-team-docs/30973)
 
 ## Member Services
-Committee Chair: Jen M
+Committee Chair: Jen M ([@jen 🔐](https://discussion.dsausa.org/u/jen/))
 
-- [myDSA 🔐](https://discussion.dsausa.org/t/mydsa-team-docs/30982)
 - [Discussion Board 🔐](https://discussion.dsausa.org/t/discussion-board-team-docs/30983)
 - [ActionKit template development 🔐](https://discussion.dsausa.org/t/actionkit-team-docs/31509)
 - [Learning Management System (LMS) 🔐](https://discussion.dsausa.org/t/lms-team-docs/31510)
 
 ## Engagement
-Committee Chair: Christina W
+Committee Chair: Andrew C ([@timeforchang 🔐](https://discussion.dsausa.org/u/timeforchang/))
 
 - [Mobilization 🔐](https://discussion.dsausa.org/t/mobilization-team-docs/30974)
 - [Newletter 🔐](https://discussion.dsausa.org/t/newsletter-team-docs/30975)
@@ -44,6 +43,7 @@ Committee Chair: Christina W
 - [Tech Liaison 🔐](https://discussion.dsausa.org/t/tech-liaison-team-docs/30978)
 - [DSA UI 🔐](https://discussion.dsausa.org/t/dsa-ui-team-docs/30981)
 - [Single Sign-On 🔐](https://discussion.dsausa.org/t/sso-team-docs/31511)
+- [myDSA 🔐](https://discussion.dsausa.org/t/mydsa-team-docs/30982)
 
 # Contributing
 
